@@ -1,0 +1,6 @@
+*:not(input, textarea, img) {
+  user-select: none;
+}
+body {
+  -webkit-tap-highlight-color: transparent;
+}

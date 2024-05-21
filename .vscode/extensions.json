@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "christian-kohler.path-intellisense",
+    "vscode-icons-team.vscode-icons",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "mikestead.dotenv",
+    "antfu.iconify",
+    "antfu.unocss",
+    "rvest.vs-code-prettier-eslint"
+  ]
+}

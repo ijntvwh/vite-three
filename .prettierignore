@@ -1,0 +1,17 @@
+*.ttf
+*.woff
+*.md
+*.sh
+*.log
+
+.vscode
+.idea
+
+dist
+node_modules
+public
+static
+lib
+/types/auto-imports.d.ts
+.eslintrc-auto-import.json
+stats.html
